@@ -1,0 +1,2 @@
+The NormalBruteForce file is just the normal brute forcing method, iterating through -5 to 5 for ranges x and y.
+The BonusV2 file however can find the sound location in a range of -200 to 200 between the ranges x and y within just a couple seconds. It works fine for this sound location but I'm not sure about others.
